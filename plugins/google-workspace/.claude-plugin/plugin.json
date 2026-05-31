@@ -1,0 +1,13 @@
+{
+  "name": "google-workspace",
+  "version": "0.1.0",
+  "description": "Personal Google-ecosystem skills for Claude Code. First skill: fetch the transcript of any YouTube video from a URL or video ID.",
+  "author": {
+    "name": "Harinder441",
+    "email": "Harinder441@users.noreply.github.com"
+  },
+  "homepage": "https://github.com/Harinder441/claude-plugins",
+  "repository": "https://github.com/Harinder441/claude-plugins",
+  "license": "MIT",
+  "keywords": ["google", "youtube", "transcript", "captions", "workspace"]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "claude-plugins",
+  "version": "0.1.0",
+  "owner": {
+    "name": "Harinder441",
+    "email": "Harinder441@users.noreply.github.com"
+  },
+  "metadata": {
+    "description": "Harinder's personal collection of Claude Code plugins."
+  },
+  "plugins": [
+    {
+      "name": "google-workspace",
+      "source": "./plugins/google-workspace",
+      "version": "0.1.0",
+      "description": "Personal Google-ecosystem skills. First skill: fetch the transcript of any YouTube video from a URL or video ID."
+    }
+  ]
+}

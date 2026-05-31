@@ -1,0 +1,21 @@
+# Secrets & local config — never commit
+.env
+.env.*
+*.local
+*.local.*
+*credentials*.json
+*client_secret*.json
+*token*.json
+service-account*.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor cruft
+.DS_Store
+*.swp
+.idea/
+.vscode/
