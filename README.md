@@ -11,7 +11,7 @@ bundles one or more skills.
 
 ```
 /plugin marketplace add Harinder441/claude-plugins
-/plugin install google-workspace@claude-plugins
+/plugin install google-workspace@harinder-plugins
 ```
 
 ## Plugins

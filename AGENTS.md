@@ -40,6 +40,11 @@ Rules:
   directories (`skills/`, `agents/`, `commands/`, `hooks/`) live at the plugin
   root, never inside `.claude-plugin/`.
 - All names are kebab-case.
+- The marketplace `name` in `marketplace.json` is `harinder-plugins` — it must
+  **not** contain "claude" or "anthropic" (Claude Code rejects such names as
+  impersonating an official marketplace). The GitHub repo is still
+  `claude-plugins`; only the manifest `name` field carries this restriction.
+  Plugins are installed as `<plugin>@harinder-plugins`.
 - Inside scripts referenced by a `SKILL.md`, use `${CLAUDE_PLUGIN_ROOT}` to
   locate bundled files — never a hardcoded absolute path or `~`.
 
