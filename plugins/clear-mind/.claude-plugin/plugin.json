@@ -1,0 +1,9 @@
+{
+  "name": "clear-mind",
+  "version": "0.1.0",
+  "description": "Three reflection skills to clear your head, decide what matters, and preserve useful context in Obsidian — conversation-first, with optional lightweight markdown notes",
+  "author": {
+    "name": "Harinder"
+  },
+  "keywords": ["reflection", "productivity", "obsidian", "mind-sweep", "priorities", "second-brain", "journaling"]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "my-explainers",
+  "version": "0.1.0",
+  "description": "Explainer skills for official platform documentation — teaches concepts by reading authoritative sources",
+  "author": {
+    "name": "Harinder"
+  },
+  "keywords": ["explainer", "documentation", "shopify", "learning"]
+}

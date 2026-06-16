@@ -1,0 +1,9 @@
+{
+  "name": "my-researchers",
+  "version": "0.1.0",
+  "description": "A collection of research skills for discovering Claude Code plugins, AI tools, and resources across the web",
+  "author": {
+    "name": "Harinder"
+  },
+  "keywords": ["research", "plugins", "discovery", "github", "twitter"]
+}

@@ -1,6 +1,6 @@
 {
   "name": "harinder-plugins",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "owner": {
     "name": "Harinder441",
     "email": "Harinder441@users.noreply.github.com"
@@ -14,6 +14,24 @@
       "source": "./plugins/google-workspace",
       "version": "0.1.0",
       "description": "Personal Google-ecosystem skills. First skill: fetch the transcript of any YouTube video from a URL or video ID."
+    },
+    {
+      "name": "my-researchers",
+      "source": "./plugins/my-researchers",
+      "version": "0.1.0",
+      "description": "A collection of research skills for discovering Claude Code plugins, AI tools, and resources across the web."
+    },
+    {
+      "name": "my-explainers",
+      "source": "./plugins/my-explainers",
+      "version": "0.1.0",
+      "description": "Explainer skills for official platform documentation — teaches concepts by reading authoritative sources."
+    },
+    {
+      "name": "clear-mind",
+      "source": "./plugins/clear-mind",
+      "version": "0.1.0",
+      "description": "Three reflection skills to clear your head, decide what matters, and preserve useful context in Obsidian."
     }
   ]
 }
