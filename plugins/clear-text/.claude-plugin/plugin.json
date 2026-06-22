@@ -1,0 +1,9 @@
+{
+  "name": "clear-text",
+  "version": "0.1.0",
+  "description": "Clean up dictated text and prompts on command — fix grammar, drop filler and duplicates, repair dictation mishears, and tighten prompts — all while preserving your tone and intent. The cleanup runs in an isolated Haiku subagent.",
+  "author": {
+    "name": "Harinder441",
+    "email": "Harinder441@users.noreply.github.com"
+  }
+}

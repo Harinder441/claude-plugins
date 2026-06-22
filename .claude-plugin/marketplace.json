@@ -1,6 +1,6 @@
 {
   "name": "harinder-plugins",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "owner": {
     "name": "Harinder441",
     "email": "Harinder441@users.noreply.github.com"
@@ -32,6 +32,12 @@
       "source": "./plugins/clear-mind",
       "version": "0.1.0",
       "description": "Three reflection skills to clear your head, decide what matters, and preserve useful context in Obsidian."
+    },
+    {
+      "name": "clear-text",
+      "source": "./plugins/clear-text",
+      "version": "0.1.0",
+      "description": "Clean dictated text and prompts on command — fix grammar, drop filler and duplicates, repair dictation mishears, and tighten prompts — while preserving tone and intent. Cleanup runs in an isolated Haiku subagent."
     }
   ]
 }
