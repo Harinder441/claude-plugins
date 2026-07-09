@@ -1,6 +1,6 @@
 {
   "name": "harinder-plugins",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "owner": {
     "name": "Harinder441",
     "email": "Harinder441@users.noreply.github.com"
@@ -38,6 +38,12 @@
       "source": "./plugins/clear-text",
       "version": "0.1.0",
       "description": "Clean dictated text and prompts on command — fix grammar, drop filler and duplicates, repair dictation mishears, and tighten prompts — while preserving tone and intent. Cleanup runs in an isolated Haiku subagent."
+    },
+    {
+      "name": "workfows",
+      "source": "./plugins/workfows",
+      "version": "0.1.0",
+      "description": "Workflow orchestration skills for Claude Code. First skill: drive cmux terminal surfaces and agent sessions from natural language."
     }
   ]
 }

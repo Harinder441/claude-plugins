@@ -19,6 +19,7 @@ bundles one or more skills.
 | Plugin | Description |
 |---|---|
 | [`google-workspace`](./plugins/google-workspace) | Google-ecosystem skills. Currently: fetch a YouTube video transcript from a URL or ID. |
+| [`workfows`](./plugins/workfows) | Workflow orchestration skills. Currently: drive cmux terminal surfaces and agent sessions from natural language. |
 
 ## Layout
 

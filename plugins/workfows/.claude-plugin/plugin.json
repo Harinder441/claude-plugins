@@ -1,0 +1,9 @@
+{
+  "name": "workfows",
+  "version": "0.1.0",
+  "description": "Workflow orchestration skills for Claude Code. First skill: drive cmux terminal surfaces and agent sessions from natural language.",
+  "author": {
+    "name": "Harinder441",
+    "email": "Harinder441@users.noreply.github.com"
+  }
+}

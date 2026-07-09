@@ -57,6 +57,7 @@ Rules:
 | `my-explainers` | 0.1.0 | `shopify-explainer` |
 | `clear-mind` | 0.1.0 | `mind-sweep-next-action`, `priority-blocker-coach`, `obsidian-context-keeper` |
 | `clear-text` | 0.1.0 | `clear-my-words`, `clear-my-prompt`, `clear-my-prompt-concise`, `text-cleaning-rules` (+ `text-cleaner` agent) |
+| `workfows` | 0.1.0 | `cmux` |
 
 Keep this table current when plugins or skills are added.
 
